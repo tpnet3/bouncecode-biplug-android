@@ -1,0 +1,8 @@
+name: bouncecode-biplug-android
+
+information:
+    title: bouncecode-biplug-android
+
+project:
+    run:
+        - echo "exit 0"
